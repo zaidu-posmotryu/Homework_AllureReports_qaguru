@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Nov 20 19:50:22 GMT 2022","Sun Nov 20 19:50:23 GMT 2022","1411","","TestWithSteps","","TestWithSteps","testWithSteps","Поиск Issue по названию",""
+"passed","Sun Nov 20 19:50:15 GMT 2022","Sun Nov 20 19:50:20 GMT 2022","5280","","TestWithLambda","","TestWithLambda","lambdaTest","lambdaTest()",""
+"passed","Sun Nov 20 19:50:20 GMT 2022","Sun Nov 20 19:50:22 GMT 2022","1400","","TestWithSelenide","","TestWithSelenide","selenideTest","selenideTest()",""
