@@ -10,7 +10,7 @@ import static io.qameta.allure.Allure.step;
 public class TestWithLambda {
 
     private static final String REPOSITORY = "eroshenkoam/allure-example";
-    private static final String ISSUE = "С Новым Годом (2022)";
+    private static final String ISSUE = "Listeners NamedBy";
 
     @Test
     public void lambdaTest() {

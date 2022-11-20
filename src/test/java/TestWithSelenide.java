@@ -20,6 +20,6 @@ public class TestWithSelenide {
         $(".header-search-input").submit();
         $(linkText("eroshenkoam/allure-example")).click();
         $("#issues-tab").click();
-        $(withText("С Новым Годом (2022)")).should(Condition.exist);
+        $(withText("Listeners NamedBy")).should(Condition.exist);
     }
 }
